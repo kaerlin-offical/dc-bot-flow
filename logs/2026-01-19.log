@@ -1,0 +1,206 @@
+{"timestamp":"2026-01-19T22:54:37.961Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T22:54:38.026Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T22:54:38.313Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T22:54:38.322Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T22:54:38.333Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T22:54:38.343Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T22:54:38.358Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T22:54:38.373Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T22:54:38.381Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T22:54:38.390Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T22:54:38.395Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T22:54:38.397Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T22:54:38.490Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T22:54:38.492Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T22:54:38.493Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T22:54:38.494Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T22:54:38.495Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T22:54:38.496Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T22:54:41.953Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T22:54:41.999Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T22:54:42.436Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T22:54:42.448Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T22:54:42.467Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T22:54:42.482Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T22:54:42.496Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T22:54:42.517Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T22:54:42.533Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T22:54:42.546Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T22:54:42.557Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T22:54:42.563Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T22:54:42.748Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T22:54:42.749Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T22:54:42.750Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T22:54:42.751Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T22:54:42.752Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T22:54:42.753Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T22:54:43.163Z","level":"ERROR","message":"Failed to register commands","data":{"error":"401: Unauthorized"}}
+{"timestamp":"2026-01-19T22:54:43.499Z","level":"ERROR","message":"Failed to start bot","data":{"error":"An invalid token was provided."}}
+{"timestamp":"2026-01-19T22:55:38.911Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T22:55:38.984Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T22:55:39.369Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T22:55:39.376Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T22:55:39.386Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T22:55:39.394Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T22:55:39.401Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T22:55:39.409Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T22:55:39.415Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T22:55:39.421Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T22:55:39.429Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T22:55:39.430Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T22:55:39.510Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T22:55:39.512Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T22:55:39.514Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T22:55:39.516Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T22:55:39.518Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T22:55:39.520Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T22:55:39.890Z","level":"ERROR","message":"Failed to register commands","data":{"error":"401: Unauthorized"}}
+{"timestamp":"2026-01-19T22:55:40.229Z","level":"ERROR","message":"Failed to start bot","data":{"error":"An invalid token was provided."}}
+{"timestamp":"2026-01-19T22:59:56.981Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T22:59:57.015Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T22:59:57.233Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T22:59:57.239Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T22:59:57.245Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T22:59:57.252Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T22:59:57.259Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T22:59:57.264Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T22:59:57.270Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T22:59:57.276Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T22:59:57.280Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T22:59:57.281Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T22:59:57.333Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T22:59:57.334Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T22:59:57.335Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T22:59:57.337Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T22:59:57.337Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T22:59:57.338Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T22:59:57.911Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-19T22:59:59.361Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-19T22:59:59.368Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-19T23:03:19.969Z","level":"INFO","message":"Command executed: /admin_stats","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:03:29.636Z","level":"ERROR","message":"Failed to generate licenses","data":{"error":"userDb.transaction is not a function","amount":1,"tier":"12H","createdBy":"dxd49 (1216480311433498645)"}}
+{"timestamp":"2026-01-19T23:03:29.638Z","level":"ERROR","message":"Generate keys command error","data":{"error":"userDb.transaction is not a function","userId":"1216480311433498645"}}
+{"timestamp":"2026-01-19T23:04:03.827Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T23:04:03.869Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T23:04:04.245Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T23:04:04.254Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T23:04:04.267Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T23:04:04.282Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T23:04:04.291Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T23:04:04.301Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T23:04:04.312Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T23:04:04.324Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T23:04:04.332Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T23:04:04.334Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T23:04:04.430Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T23:04:04.431Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T23:04:04.432Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T23:04:04.434Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T23:04:04.435Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T23:04:04.435Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T23:04:05.168Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-19T23:04:06.496Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-19T23:04:06.498Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-19T23:04:22.648Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T23:04:22.690Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T23:04:23.044Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T23:04:23.051Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T23:04:23.061Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T23:04:23.074Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T23:04:23.086Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T23:04:23.101Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T23:04:23.113Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T23:04:23.128Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T23:04:23.143Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T23:04:23.145Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T23:04:23.235Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T23:04:23.236Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T23:04:23.238Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T23:04:23.240Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T23:04:23.241Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T23:04:23.242Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T23:04:23.885Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-19T23:04:24.962Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-19T23:04:24.964Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-19T23:06:52.180Z","level":"SUCCESS","message":"Generated 1 12H licenses","data":{"admin":"dxd49","tier":"12H","amount":1}}
+{"timestamp":"2026-01-19T23:06:52.184Z","level":"INFO","message":"Command executed: /generate_keys","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:07:11.903Z","level":"INFO","message":"License redeemed","data":{"key":"EXH3-6Z5B-WNL7-FWOE","userId":"1216480311433498645"}}
+{"timestamp":"2026-01-19T23:07:11.904Z","level":"INFO","message":"Command executed: /redeem","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:08:07.840Z","level":"INFO","message":"Command executed: /signup","data":{"userId":"1216480311433498645","username":"dxd49","success":false,"error":"License already redeemed"}}
+{"timestamp":"2026-01-19T23:25:40.467Z","level":"INFO","message":"Command executed: /admin_stats","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:26:21.626Z","level":"INFO","message":"License created","data":{"key":"J3FT-788Y-C263-1WIO","createdBy":"dxd49 (1216480311433498645)"}}
+{"timestamp":"2026-01-19T23:26:21.627Z","level":"INFO","message":"Command executed: /create_license","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:26:52.728Z","level":"INFO","message":"License redeemed","data":{"key":"J3FT-788Y-C263-1WIO","userId":"1216480311433498645"}}
+{"timestamp":"2026-01-19T23:26:52.729Z","level":"INFO","message":"Command executed: /redeem","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:27:26.572Z","level":"INFO","message":"Command executed: /signup","data":{"userId":"1216480311433498645","username":"dxd49","success":false,"error":"License already redeemed"}}
+{"timestamp":"2026-01-19T23:27:51.341Z","level":"INFO","message":"License created","data":{"key":"Q1TT-V6P4-64ZW-W9QK","createdBy":"dxd49 (1216480311433498645)"}}
+{"timestamp":"2026-01-19T23:27:51.342Z","level":"INFO","message":"Command executed: /create_license","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:28:41.381Z","level":"SUCCESS","message":"User registered","data":{"userId":"1216480311433498645","username":"admin"}}
+{"timestamp":"2026-01-19T23:28:41.382Z","level":"INFO","message":"License redeemed","data":{"key":"Q1TT-V6P4-64ZW-W9QK","userId":"1216480311433498645"}}
+{"timestamp":"2026-01-19T23:28:41.384Z","level":"INFO","message":"Command executed: /signup","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:28:57.184Z","level":"INFO","message":"Download requested","data":{"userId":"1216480311433498645","username":"admin"}}
+{"timestamp":"2026-01-19T23:28:57.186Z","level":"INFO","message":"Command executed: /get_download","data":{"userId":"1216480311433498645","username":"dxd49","success":true}}
+{"timestamp":"2026-01-19T23:31:25.861Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T23:31:25.877Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T23:31:25.986Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T23:31:25.989Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T23:31:25.993Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T23:31:25.996Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T23:31:25.999Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T23:31:26.001Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T23:31:26.004Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T23:31:26.008Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T23:31:26.011Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T23:31:26.012Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T23:31:26.038Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T23:31:26.039Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T23:31:26.040Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T23:31:26.041Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T23:31:26.042Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T23:31:26.042Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T23:31:26.517Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-19T23:31:27.650Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-19T23:31:27.651Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-19T23:31:31.942Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T23:31:31.959Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T23:31:32.065Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T23:31:32.071Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T23:31:32.077Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T23:31:32.081Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T23:31:32.083Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T23:31:32.088Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T23:31:32.092Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T23:31:32.095Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T23:31:32.098Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T23:31:32.099Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T23:31:32.129Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T23:31:32.129Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T23:31:32.130Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T23:31:32.131Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T23:31:32.131Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T23:31:32.132Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T23:31:32.840Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-19T23:31:33.883Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-19T23:31:33.884Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-19T23:31:42.734Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-19T23:31:42.777Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-19T23:31:43.083Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-19T23:31:43.092Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-19T23:31:43.104Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-19T23:31:43.123Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-19T23:31:43.133Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-19T23:31:43.144Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-19T23:31:43.158Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-19T23:31:43.167Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-19T23:31:43.176Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-19T23:31:43.178Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-19T23:31:43.229Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-19T23:31:43.230Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-19T23:31:43.232Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-19T23:31:43.233Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-19T23:31:43.234Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-19T23:31:43.235Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-19T23:32:26.998Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-19T23:32:28.027Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-19T23:32:28.027Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-19T23:57:51.269Z","level":"INFO","message":"Command executed: /admin_stats","data":{"userId":"1386432918825730161","username":"xml.xyz","success":false,"error":"Not authorized"}}

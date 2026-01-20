@@ -1,0 +1,22 @@
+{"timestamp":"2026-01-20T00:59:02.151Z","level":"SUCCESS","message":"Databases initialized"}
+{"timestamp":"2026-01-20T00:59:02.176Z","level":"INFO","message":"Loaded command: get_download"}
+{"timestamp":"2026-01-20T00:59:02.395Z","level":"INFO","message":"Loaded command: redeem"}
+{"timestamp":"2026-01-20T00:59:02.402Z","level":"INFO","message":"Loaded command: signup"}
+{"timestamp":"2026-01-20T00:59:02.410Z","level":"INFO","message":"Loaded admin command: admin_stats"}
+{"timestamp":"2026-01-20T00:59:02.420Z","level":"INFO","message":"Loaded admin command: api_key"}
+{"timestamp":"2026-01-20T00:59:02.425Z","level":"INFO","message":"Loaded admin command: create_license"}
+{"timestamp":"2026-01-20T00:59:02.437Z","level":"INFO","message":"Loaded admin command: generate_keys"}
+{"timestamp":"2026-01-20T00:59:02.442Z","level":"INFO","message":"Loaded admin command: list_licenses"}
+{"timestamp":"2026-01-20T00:59:02.449Z","level":"INFO","message":"Loaded admin command: list_users"}
+{"timestamp":"2026-01-20T00:59:02.455Z","level":"INFO","message":"Loaded admin command: revoke_license"}
+{"timestamp":"2026-01-20T00:59:02.456Z","level":"INFO","message":"Registering 10 slash commands..."}
+{"timestamp":"2026-01-20T00:59:02.504Z","level":"SUCCESS","message":"API server running on port 3000"}
+{"timestamp":"2026-01-20T00:59:02.505Z","level":"INFO","message":"Available endpoints:"}
+{"timestamp":"2026-01-20T00:59:02.505Z","level":"INFO","message":"  GET  /health - Health check"}
+{"timestamp":"2026-01-20T00:59:02.507Z","level":"INFO","message":"  POST /api/validate - Validate single license"}
+{"timestamp":"2026-01-20T00:59:02.508Z","level":"INFO","message":"  GET  /api/license/:key - Get license info"}
+{"timestamp":"2026-01-20T00:59:02.509Z","level":"INFO","message":"  POST /api/validate/batch - Validate multiple licenses"}
+{"timestamp":"2026-01-20T00:59:03.053Z","level":"SUCCESS","message":"Successfully registered slash commands"}
+{"timestamp":"2026-01-20T00:59:04.151Z","level":"SUCCESS","message":"Bot logged in as Flow 2.0#4078"}
+{"timestamp":"2026-01-20T00:59:04.152Z","level":"INFO","message":"Serving 1 guild(s)"}
+{"timestamp":"2026-01-20T01:00:00.108Z","level":"INFO","message":"Shutting down gracefully..."}
